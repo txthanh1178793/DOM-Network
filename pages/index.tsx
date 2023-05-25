@@ -49,10 +49,10 @@ export default function Home() {
                   <p id="text02" className="style4">The Gate to DeFi on XDC Blockchain</p>
                   <ul id="buttons03" className="style1 buttons">
                     <li><a href="https://domain.ext/path" className="button n01"><svg>
-                      {/* <use xlink:href="#icon-67ad41ecc66a1b1cd00d0d3b20c00017"></use> */}
+                      <use xlinkHref="#icon-67ad41ecc66a1b1cd00d0d3b20c00017"></use>
                     </svg><span className="label">Get started</span></a></li>
                     <li><a href="#more" className="button n02"><svg>
-                      {/* <use xlink:href="#icon-8a75e9205b2d7697ad826d592ebf05f0"></use> */}
+                      <use xlinkHref="#icon-8a75e9205b2d7697ad826d592ebf05f0"></use>
                     </svg><span className="label">Learn more</span></a></li>
                   </ul>
                 </div>
@@ -117,7 +117,7 @@ export default function Home() {
                       conubia nostra consequat.</p>
                     <ul id="buttons01" className="style1 buttons">
                       <li><a href="https://domain.ext/path" className="button n01"><svg>
-                        {/* <use xlink:href="#icon-67ad41ecc66a1b1cd00d0d3b20c00017"></use> */}
+                        <use xlinkHref="#icon-67ad41ecc66a1b1cd00d0d3b20c00017"></use>
                       </svg><span className="label">Adipiscing</span></a></li>
                     </ul>
                   </div>
@@ -135,7 +135,7 @@ export default function Home() {
                       etiam consequat, et adipiscing.</p>
                     <ul id="buttons05" className="style1 buttons">
                       <li><a href="https://domain.ext/path" className="button n01"><svg>
-                        {/* <use xlink:href="#icon-67ad41ecc66a1b1cd00d0d3b20c00017"></use> */}
+                        <use xlinkHref="#icon-67ad41ecc66a1b1cd00d0d3b20c00017"></use>
                       </svg><span className="label">Interdum</span></a></li>
                     </ul>
                   </div>
@@ -147,7 +147,7 @@ export default function Home() {
                       egestas. Pellentesque ac quam.</p>
                     <ul id="buttons07" className="style1 buttons">
                       <li><a href="https://domain.ext/path" className="button n01"><svg>
-                        {/* <use xlink:href="#icon-67ad41ecc66a1b1cd00d0d3b20c00017"></use> */}
+                        <use xlinkHref="#icon-67ad41ecc66a1b1cd00d0d3b20c00017"></use>
                       </svg><span className="label">Veroeros</span></a></li>
                     </ul>
                   </div>
@@ -159,7 +159,7 @@ export default function Home() {
                       mauris. Ut finibus nisi nec lacinia.</p>
                     <ul id="buttons09" className="style1 buttons">
                       <li><a href="https://domain.ext/path" className="button n01"><svg>
-                        {/* <use xlink:href="#icon-67ad41ecc66a1b1cd00d0d3b20c00017"></use> */}
+                        <use xlinkHref="#icon-67ad41ecc66a1b1cd00d0d3b20c00017"></use>
                       </svg><span className="label">Consequat</span></a></li>
                     </ul>
                   </div>
@@ -171,7 +171,7 @@ export default function Home() {
               aenean ornare velit lacus, ac varius sed enim lorem ullamcorper dolore. ac varius enim lorem.</p>
             <ul id="buttons10" className="style1 buttons">
               <li><a href="https://domain.ext/path" className="button n01"><svg>
-                {/* <use xlink:href="#icon-67ad41ecc66a1b1cd00d0d3b20c00017"></use> */}
+                <use xlinkHref="#icon-67ad41ecc66a1b1cd00d0d3b20c00017"></use>
               </svg><span className="label">Malesuada</span></a></li>
             </ul>
             <div id="container05" className="style1 container default">
@@ -183,7 +183,7 @@ export default function Home() {
                     primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis.</p>
                   <ul id="buttons02" className="style1 buttons">
                     <li><a href="https://domain.ext/path" className="button n01"><svg>
-                      {/* <use xlink:href="#icon-67ad41ecc66a1b1cd00d0d3b20c00017"></use> */}
+                      <use xlinkHref="#icon-67ad41ecc66a1b1cd00d0d3b20c00017"></use>
                     </svg><span className="label">Get started</span></a></li>
                   </ul>
                 </div>
