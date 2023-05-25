@@ -73,7 +73,7 @@ export default function Home() {
                       conubia nostra consequat.</p>
                     <ul id="buttons06" className="style1 buttons">
                       <li><a href="https://domain.ext/path" className="button n01"><svg>
-                        {/* <use xlink:href="#icon-67ad41ecc66a1b1cd00d0d3b20c00017"></use> */}
+                        <use xlinkHref="#icon-67ad41ecc66a1b1cd00d0d3b20c00017"></use>
                       </svg><span className="label">Adipiscing</span></a></li>
                     </ul>
                   </div>
@@ -91,7 +91,7 @@ export default function Home() {
                       etiam consequat et lorem adipiscing.</p>
                     <ul id="buttons04" className="style1 buttons">
                       <li><a href="https://domain.ext/path" className="button n01"><svg>
-                        {/* <use xlink:href="#icon-67ad41ecc66a1b1cd00d0d3b20c00017"></use> */}
+                        <use xlinkHref="#icon-67ad41ecc66a1b1cd00d0d3b20c00017"></use>
                       </svg><span className="label">Aliquam ante</span></a></li>
                     </ul>
                   </div>
