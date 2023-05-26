@@ -51,9 +51,11 @@ export default function Home() {
                     <li><a href="https://domain.ext/path" className="button n01"><svg>
                       <use xlinkHref="#icon-67ad41ecc66a1b1cd00d0d3b20c00017"></use>
                     </svg><span className="label">Get started</span></a></li>
-                    <li><a href="#more" className="button n02"><svg>
-                      <use xlinkHref="#icon-8a75e9205b2d7697ad826d592ebf05f0"></use>
-                    </svg><span className="label">Learn more</span></a></li>
+                    {/* <li>
+                      <a href="#more" className="button n02"><svg>
+                        <use xlinkHref="#icon-8a75e9205b2d7697ad826d592ebf05f0"></use>
+                      </svg><span className="label">Learn more</span></a>
+                    </li> */}
                   </ul>
                 </div>
               </div>
@@ -68,13 +70,11 @@ export default function Home() {
                   <div>
                     <h2 id="text03" className="style2" >Decentralized Oracle
                       Network</h2>
-                    <p id="text06" className="style4">Lorem ipsum dolor sit amet consectetur adipiscing elit.
-                      Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per
-                      conubia nostra consequat.</p>
+                    <p id="text06" className="style4">Decentralized, transparent and composable data for dApps.</p>
                     <ul id="buttons06" className="style1 buttons">
                       <li><a href="https://domain.ext/path" className="button n01"><svg>
                         <use xlinkHref="#icon-67ad41ecc66a1b1cd00d0d3b20c00017"></use>
-                      </svg><span className="label">Adipiscing</span></a></li>
+                      </svg><span className="label">Learn more</span></a></li>
                     </ul>
                   </div>
                 </div>
@@ -86,13 +86,11 @@ export default function Home() {
                   <div>
                     <h2 id="text20" className="style2" >Prediction Market
                     </h2>
-                    <p id="text21" className="style4">Etiam tristique libero eu nibh porttitor amet fermentum.
-                      Nullam venenatis erat id vehicula ultrices sed ultricies condimentum. Magna sed
-                      etiam consequat et lorem adipiscing.</p>
+                    <p id="text21" className="style4">Whether crypto price will rise or fall – guess correctly to win.</p>
                     <ul id="buttons04" className="style1 buttons">
                       <li><a href="https://domain.ext/path" className="button n01"><svg>
                         <use xlinkHref="#icon-67ad41ecc66a1b1cd00d0d3b20c00017"></use>
-                      </svg><span className="label">Aliquam ante</span></a></li>
+                      </svg><span className="label">Comming soon</span></a></li>
                     </ul>
                   </div>
                   <div>
