@@ -46,7 +46,7 @@ export default function Home() {
                   <div id="image02" className="style1 image"><span className="frame"><img src="DOM.svg"
                     alt="DOM"></img></span></div>
                   <h1 id="text01" className="style1"><span className="name">DOM NETWORK</span></h1>
-                  <p id="text02" className="style4">The Gate to DeFi on XDC Blockchain</p>
+                  <p id="text02" className="style4">The Gateway to DeFi on XDC Blockchain</p>
                   <ul id="buttons03" className="style1 buttons">
                     <li><a href="https://domain.ext/path" className="button n01"><svg>
                       <use xlinkHref="#icon-67ad41ecc66a1b1cd00d0d3b20c00017"></use>
@@ -186,16 +186,16 @@ export default function Home() {
               </div>
             </div> */}
             <ul id="icons01" className="style1 icons">
-              <li><a className="n01" href="https://domain.ext/path" aria-label="Twitter"><svg>
+              <li><a className="n01" href="https://twitter.com/_domnetwork" aria-label="Twitter"><svg>
                 <use xlinkHref="#icon-0c4db87eff374f0f1ef47f8f043f0132"></use>
               </svg><span className="label">Twitter</span></a></li>
-              <li><a className="n02" href="https://domain.ext/path" aria-label="Product Hunt"><svg>
+              {/* <li><a className="n02" href="https://domain.ext/path" aria-label="Product Hunt"><svg>
                 <use xlinkHref="#icon-a8ac94bab98aae41181aaa5bee69fa75"></use>
-              </svg><span className="label">Product Hunt</span></a></li>
-              <li><a className="n03" href="https://domain.ext/path" aria-label="GitHub"><svg>
+              </svg><span className="label">Product Hunt</span></a></li> */}
+              <li><a className="n03" href="https://github.com/DOM-Network/" aria-label="GitHub"><svg>
                 <use xlinkHref="#icon-8c4b37645de3c276d895d87df51ba614"></use>
               </svg><span className="label">GitHub</span></a></li>
-              <li><a className="n04" href="mailto:user@domain.ext" aria-label="Email"><svg>
+              <li><a className="n04" href="mailto:truongxuanthanh1178793@gmail.com" aria-label="Email"><svg>
                 <use xlinkHref="#icon-c3c8e1063e3b7f84f6b54712741de139"></use>
               </svg><span className="label">Email</span></a></li>
             </ul>
