@@ -120,7 +120,7 @@ export default function Home() {
                 </div>
               </div>
             </div>
-            <div id="container01" className="style3 container columns">
+            {/* <div id="container01" className="style3 container columns">
               <div className="wrapper">
                 <div className="inner">
                   <div>
@@ -184,7 +184,7 @@ export default function Home() {
                   </ul>
                 </div>
               </div>
-            </div>
+            </div> */}
             <ul id="icons01" className="style1 icons">
               <li><a className="n01" href="https://domain.ext/path" aria-label="Twitter"><svg>
                 <use xlinkHref="#icon-0c4db87eff374f0f1ef47f8f043f0132"></use>
