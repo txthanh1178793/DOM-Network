@@ -46,7 +46,7 @@ export default function Home() {
                   <div id="image02" className="style1 image"><span className="frame"><img src="DOM.svg"
                     alt="DOM"></img></span></div>
                   <h1 id="text01" className="style1"><span className="name">DOM NETWORK</span></h1>
-                  <p id="text02" className="style4">The Gateway to DeFi on XDC Blockchain</p>
+                  <p id="text02" className="style4">The Gateway to DeFi</p>
                   <ul id="buttons03" className="style1 buttons">
                     <li><a href="https://domain.ext/path" className="button n01"><svg>
                       <use xlinkHref="#icon-67ad41ecc66a1b1cd00d0d3b20c00017"></use>
