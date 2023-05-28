@@ -110,7 +110,7 @@ export default function Home() {
                   <div>
                     <h2 id="text11" className="style2" >Lending Protocol
                     </h2>
-                    <p id="text14" className="style4">An open-source capital market protocol built on the XDC Blockchain that aims to create liquidity pools whose interest rates are determined by an algorithm based on supply and demand.</p>
+                    <p id="text14" className="style4">An open-source capital market protocol built on the blockchain that aims to create liquidity pools whose interest rates are determined by an algorithm based on supply and demand.</p>
                     <ul id="buttons01" className="style1 buttons">
                       <li><a href="https://domain.ext/path" className="button n01"><svg>
                         <use xlinkHref="#icon-67ad41ecc66a1b1cd00d0d3b20c00017"></use>
